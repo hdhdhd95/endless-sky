@@ -17,6 +17,6 @@ start
 		score 400
 		mortgage Mortgage
 			principal 480000
-			interest 0.004
+			interest 0.0004107
 			term 365
 	set "license: Pilot's"
